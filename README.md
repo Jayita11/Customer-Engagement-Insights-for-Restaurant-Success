@@ -4,16 +4,16 @@
 ## Project Background:
 Yelp is a web and mobile platform where users can discover, review, and share experiences about local businesses through crowd-sourced reviews. It allows users to submit reviews, photos, and tips, while also browsing ratings and insights from others. Yelp covers a wide range of businesses, from restaurants to services, and offers features like search filters, business profiles, and customer feedback.
 
----
+
 
 ## Problem Statement:
 In the highly competitive restaurant industry, it is essential for stakeholders to understand the factors that drive business success. This project leverages the Yelp dataset to explore the relationship between user engagement (such as reviews, tips, and check-ins) and key success metrics (including review count and ratings) for restaurants.
 
----
+
 
 ## Research Objectives:
 ![yelp_new](https://github.com/user-attachments/assets/ce881c12-10d8-4988-a124-1fa6b2bcbb88)
----
+
 
 ## Hypothesis:
 - **Higher levels of user engagement** (more reviews, tips, and check-ins) correlate with **higher review counts, average ratings**, and overall business success for restaurants.
@@ -22,7 +22,7 @@ In the highly competitive restaurant industry, it is essential for stakeholders 
 - **Elite users** have a greater influence on restaurant visibility and ratings compared to non-elite users, leading to a disproportionate contribution to restaurant success.
 - **Regional and seasonal trends** affect restaurant success, with restaurants in certain cities and seasons showing **higher engagement, ratings, and review counts**.
 
----
+
 
 ## Data Overview:
 This dataset is a curated subset of Yelp, containing comprehensive information about businesses across eight major metropolitan areas in the USA and Canada.
@@ -34,7 +34,7 @@ The original data is provided by Yelp in the form of six JSON files: **business*
 - **Dataset Coverage**: From 2004 to 2022  
 - **Dataset Source**: [Yelp Dataset](https://www.yelp.com/dataset)
 
----
+
 
 
 ## Executive Summary

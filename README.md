@@ -22,7 +22,7 @@ In the highly competitive restaurant industry, it is essential for stakeholders 
 - **Elite users** have a greater influence on restaurant visibility and ratings compared to non-elite users, leading to a disproportionate contribution to restaurant success.
 - **Regional and seasonal trends** affect restaurant success, with restaurants in certain cities and seasons showing **higher engagement, ratings, and review counts**.
 
-An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here]. 
+An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here](https://github.com/Jayita11/Customer-Engagement-Insights-for-Yelp-Restaurant-Business-Success/blob/main/Yelp_Resturant_Data_Analysis_Dashboard.twb). 
 
 The SQL queries regarding various business questions and data preparation for the Tableau dashboard can be found [here].
 

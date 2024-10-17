@@ -30,7 +30,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
   
 - The geographic distribution shows high concentrations of restaurants in key states such as California, Florida, and Pennsylvania, which are major hubs for dining culture and could be prioritized for expansion and marketing efforts.
 
-![Screenshot 2024-10-16 at 9 05 12 PM](https://github.com/user-attachments/assets/ccf2dad2-9e77-4dd3-9037-d693b880f2e0)
+![Screenshot 2024-10-16 at 9 40 36 PM](https://github.com/user-attachments/assets/0f94993d-a793-407e-a2a1-b86b56064636)
 
 #### User Analysis Dashboard
 - John leads with the most fans, followed by Michael and David, suggesting that these users have the greatest influence within the platform. These top users likely drive significant visibility and engagement for the restaurants they review.

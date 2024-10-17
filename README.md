@@ -3,6 +3,7 @@
 ## Executive Summary
 The analysis for the Yelp Restaurant business was conducted using **SQLite**, **Python**, and **Tableau**. SQLite was utilized through Python to perform the data analysis, generating insights from the dataset, which were then visualized. Additionally, **Tableau** was used for further analysis, creating interactive dashboards to provide a comprehensive representation of the findings.
 
+### Tableau Analysis & Dashboard
 #### Home Page
 - This is the Home Page for the Yelp Restaurant Analysis Tableau dashboard.The page allows easy navigation to various detailed dashboards through clickable icons.
   

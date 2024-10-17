@@ -1,5 +1,47 @@
 # Yelp Restaurant Business Analysis
 
+
+## Project Background:
+Yelp is a web and mobile platform where users can discover, review, and share experiences about local businesses through crowd-sourced reviews. It allows users to submit reviews, photos, and tips, while also browsing ratings and insights from others. Yelp covers a wide range of businesses, from restaurants to services, and offers features like search filters, business profiles, and customer feedback.
+
+---
+
+## Problem Statement:
+In the highly competitive restaurant industry, it is essential for stakeholders to understand the factors that drive business success. This project leverages the Yelp dataset to explore the relationship between user engagement (such as reviews, tips, and check-ins) and key success metrics (including review count and ratings) for restaurants.
+
+---
+
+## Research Objectives:
+- **Quantify the Correlation Between User Engagement** (reviews, tips, check-ins) and **Success Metrics**.
+- **Analyze the Influence of Restaurant Attributes** on Customer Satisfaction and Ratings.
+- **Examine the Role of Elite Users** in Shaping Restaurant Success.
+- **Identify Regional and Seasonal Trends** in Restaurant Success.
+- **Evaluate the Sentiment of User Reviews** and Its Impact on Ratings.
+
+---
+
+## Hypothesis:
+- **Higher levels of user engagement** (more reviews, tips, and check-ins) correlate with **higher review counts, average ratings**, and overall business success for restaurants.
+- **Positive sentiment** in reviews (useful, funny, cool) significantly contributes to **higher average ratings** and **increased review counts** for restaurants.
+- Restaurants with specific attributes (e.g., parking, alcohol availability, happy hour) will have **higher average ratings** and greater customer satisfaction compared to those without these features.
+- **Elite users** have a greater influence on restaurant visibility and ratings compared to non-elite users, leading to a disproportionate contribution to restaurant success.
+- **Regional and seasonal trends** affect restaurant success, with restaurants in certain cities and seasons showing **higher engagement, ratings, and review counts**.
+
+---
+
+## Data Overview:
+This dataset is a curated subset of Yelp, containing comprehensive information about businesses across eight major metropolitan areas in the USA and Canada.
+
+The original data is provided by Yelp in the form of six JSON files: **business**, **review**, **user**, **tip**, **checkin**, and **photos**. For convenience, these JSON files have been stored in a database to facilitate efficient data retrieval and analysis.
+
+- **Compressed Dataset Size**: 4.04 GB  
+- **Uncompressed Dataset Size**: 8.65 GB  
+- **Dataset Coverage**: From 2004 to 2022  
+- **Dataset Source**: [Yelp Dataset](https://www.yelp.com/dataset)
+
+---
+
+
 ## Executive Summary
 The analysis for the Yelp Restaurant business was conducted using **SQLite**, **Python**, and **Tableau**. SQLite was utilized through Python to perform the data analysis, generating insights from the dataset, which were then visualized. Additionally, **Tableau** was used for further analysis, creating interactive dashboards to provide a comprehensive representation of the findings.
 

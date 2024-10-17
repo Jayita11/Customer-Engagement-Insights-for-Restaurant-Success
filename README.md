@@ -3,6 +3,121 @@
 ## Executive Summary
 The analysis for the Yelp Restaurant business was conducted using **SQLite**, **Python**, and **Tableau**. SQLite was utilized through Python to perform the data analysis, generating insights from the dataset, which were then visualized. Additionally, **Tableau** was used for further analysis, creating interactive dashboards to provide a comprehensive representation of the findings.
 
+### SQLite & Python Analysis, Visualization and Findings
+
+### How many restaurant businesses exist, how many are currently open, and what are the descriptive statistics for review count and star rating? Additionally, which restaurants have the highest number of reviews and the highest ratings?
+
+- Out of 150K businesses, 52K are in the restaurant industry, and 35K of those restaurants are currently open.
+
+
+![yelp_1](https://github.com/user-attachments/assets/963c904d-36c2-42bd-9667-3a94adfc691b)
+
+
+**Table Showing Descriptive Statistics for Business Success Metrics (Review Count and Star Rating)**
+
+- There is no direct correlation between high ratings and high review counts; restaurants with perfect ratings often have fewer reviews.
+- Review count reflects user engagement but not necessarily overall customer satisfaction or business performance.
+- Success in the restaurant industry is influenced by more than just ratings or review counts, as businesses with lower ratings can still attract higher customer engagement, and top-rated restaurants may have limited exposure.
+
+### Do restaurants with higher engagement (reviews, tips, check-ins) tend to have higher ratings?
+
+- The data reveals a general upward trend in average review, check-in, and tip counts as ratings increase from 1 to 4 stars.
+- Restaurants with a 4-star rating demonstrate the highest overall engagement across reviews, check-ins, and tips, suggesting that user interaction peaks at this rating.
+- Interestingly, engagement metrics (reviews, check-ins, tips) begin to decline slightly at 4.5 stars and drop more significantly at the 5-star level.
+- The dip in engagement at 5 stars may indicate a saturation point where fewer customers feel the need to provide additional feedback, or it could suggest that only a small, highly satisfied customer base frequents these top-rated establishments.
+
+### Is there a correlation between the number of reviews, tips, and check-ins for a business?
+
+- These correlations suggest that user engagement across different platforms (reviews, tips, and check-ins) is interlinked; higher activity in one area tends to be associated with higher activity in others.
+- Businesses should focus on strategies that boost all types of user engagement, as increases in one type of engagement are likely to drive increases in others, enhancing overall visibility and interaction with customers.
+
+### Is there a difference in the user engagement (reviews, tips, and check-ins) between high-rated and low-rated businesses?
+
+- Data indicates a clear correlation between higher ratings and increased user engagement across reviews, tips, and check-ins.
+- This pattern underscores the importance of maintaining high service and quality standards, as these appear to drive more reviews, check-ins, and tips, which are critical metrics of customer engagement and satisfaction.
+- Businesses should focus on strategies that boost all types of user engagement, as increases in one type of engagement are likely to drive increases in others, enhancing overall visibility and interaction with customers.
+
+### How do restaurant attributes like parking, alcohol, happy hour, TV availability, noise level, smoking, and 24-hour availability correlate with star ratings?
+
+- Alcohol availability and happy hour offerings have a moderate positive correlation with star ratings, indicating that these amenities tend to increase customer satisfaction and receive slightly higher ratings.
+- Parking and TV availability have weaker correlations with star ratings, showing a less pronounced effect on customer satisfaction.
+- Noise level, smoking policies, and 24-hour availability show little to no influence on star ratings.
+- Focusing on enhancing amenities like alcohol and happy hour can significantly boost customer satisfaction, while other features may not have a strong impact on ratings.
+- Overall, businesses should consider focusing on alcohol service and happy hour promotions as these factors appear to have the greatest positive influence on customer ratings, while amenities like TVs and 24-hour availability may not significantly boost ratings.
+
+### How do the success metrics (review_count or avg_rating) of restaurants vary across different states and cities?
+
+- **Philadelphia** emerges as the top city with the highest success score, indicating a combination of high ratings and active user engagement.
+- Following Philadelphia, **Tampa**, **Indianapolis**, and **Tucson** rank among the top cities with significant success scores, suggesting thriving restaurant scenes in these areas.
+- The success metrics vary significantly across different states and cities, highlighting regional differences in dining preferences, culinary scenes, and customer engagement levels.
+- Identifying cities with high success scores presents opportunities for restaurant chains to expand or invest further, while areas with lower scores may require targeted efforts to improve ratings and increase user engagement.
+
+### Which cities have the highest number of restaurants, and how does restaurant distribution compare across city areas?
+
+- **Philadelphia** stands out with a strong restaurant presence, signaling a thriving food culture and opportunities for food-related tourism and local business growth.
+- Cities like **Tampa** and **Indianapolis** show competitive dining markets, attracting both locals and tourists.
+- **Edmonton** highlights a strong restaurant scene in Canada, reflecting cultural diversity and economic growth.
+- **Tucson**, **Nashville**, and **New Orleans** have vibrant food scenes, driving local economies and attracting food enthusiasts and supporting local economies.
+- Smaller cities such as **Reno** and **Boise** demonstrate emerging restaurant markets, catering to growing populations and regional tourism.
+
+### How do restaurants in different cities compare in terms of categories and average ratings?
+
+- **Philadelphia** shows a diverse range of restaurant categories, with pizza and Chinese cuisine making up a significant portion, but with lower average ratings.
+- **Tucson** and **Indianapolis** have higher average ratings, particularly for Mexican cuisine, suggesting strong customer satisfaction in these categories.
+- The variation in restaurant categories and ratings across cities highlights regional preferences and areas for potential improvement, especially in cities with lower average ratings like Philadelphia.
+
+### Is there any difference in engagement of elite users and non-elite users?
+
+- **Elite users** are individuals who have been recognized and awarded the "Elite" status by Yelp for their active and high-quality contributions to the platform, such as frequent and detailed reviews, photos, and check-ins, among other criteria.
+- Elite users, despite being significantly fewer in number, contribute a substantial proportion of the total review count compared to non-elite users.
+- Elite users often provide detailed and insightful reviews, which can influence other users' perceptions and decisions regarding a business.
+- Reviews from elite users may receive more attention and visibility on the Yelp platform due to their status, potentially leading to higher exposure for businesses.
+- Establishing a positive relationship with elite users can lead to repeat visits and loyalty, as they are more likely to continue supporting businesses they have had good experiences with.
+
+### What are the busiest hours for restaurants?
+
+- The busiest hours for restaurants, based on user engagement, span from **4 pm to 1 am**.
+- Knowing the peak hours allows businesses to optimize their staffing levels and resource allocation during these times to ensure efficient operations and quality service delivery.
+- User engagement is concentrated during evening and night hours, indicating higher demand for dining out during these times, possibly influenced by work schedules, social gatherings, and leisure activities.
+
+### How many users have left tips to more businesses than reviews, and how does user engagement vary between leaving tips and reviews?
+
+- Most users are more likely to leave **reviews** than tips, indicating that reviews are the preferred form of engagement.
+- A smaller but significant group of users engages equally in leaving both tips and reviews, showing a balanced interaction.
+- Few users prioritize leaving tips over reviews, suggesting that tips are less common but may still offer valuable insights for businesses.
+- Businesses should focus more on encouraging reviews while also recognizing the value of tips as a form of user engagement.
+
+### Are there any patterns in user engagement over time for successful businesses compared to less successful ones?
+
+- Successful businesses, especially those with higher ratings (above 3.5), demonstrate consistent or increasing user engagement over time.
+- High-rated restaurants maintain a steady or growing level of user interaction, indicating strong customer interest and satisfaction.
+
+### Are there any seasonal trends in the user engagement for restaurants?
+
+- Tip engagement shows a declining trend, while review engagement follows an upward trajectory, suggesting a shift in how customers interact over time.
+- Seasonal trends are evident, with peak engagement occurring at the beginning and end of the year (around November to March), highlighting key periods for increased customer activity.
+
+### How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
+
+- **Useful**, **funny**, and **cool** counts from reviews are strongly correlated with review count, suggesting that more engaging and well-received reviews lead to higher overall review activity.
+- Useful counts have the strongest correlation with other engagement metrics (review count, cool count), indicating that reviews perceived as helpful play a key role in driving engagement.
+- Higher counts of **useful**, **funny**, and **cool** reviews are associated with a higher success score, highlighting the importance of engaging user feedback for restaurant success.
+- Overall, user sentiment metrics contribute significantly to a restaurant's performance, with higher engagement across these categories linked to better business outcomes.
+
+### Do users who post more reviews tend to have more fans, and how does this relationship manifest for the top 10 users with the most fans?
+
+- For all users, there is a moderate positive correlation between the number of reviews and the number of fans, suggesting that higher review activity is generally associated with more fans.
+- Among the top 10 users, however, this correlation weakens significantly, implying that once users reach a certain level of fame, additional reviews do not necessarily lead to more fans.
+- **Funny** and **cool** reviews tend to correlate more with user engagement metrics (useful, funny, cool counts), while average rating has a weak negative correlation with these metrics.
+- High engagement metrics such as useful, funny, and cool reviews are key drivers of fan growth for these top users, emphasizing the value of high-quality, engaging reviews over sheer quantity.
+
+
+
+
+
+
+
+
 ### Tableau Analysis & Dashboard
 #### Home Page
 - This is the Home Page for the Yelp Restaurant Analysis Tableau dashboard.The page allows easy navigation to various detailed dashboards through clickable icons.

@@ -17,7 +17,7 @@ In the highly competitive restaurant industry, it is essential for stakeholders 
 - **Examine the Role of Elite Users** in Shaping Restaurant Success.
 - **Identify Regional and Seasonal Trends** in Restaurant Success.
 - **Evaluate the Sentiment of User Reviews** and Its Impact on Ratings.
-
+[yelp.pptx](https://github.com/user-attachments/files/17405838/yelp.pptx)
 ---
 
 ## Hypothesis:

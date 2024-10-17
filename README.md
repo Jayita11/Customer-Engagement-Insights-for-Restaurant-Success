@@ -108,12 +108,12 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 
 - Successful businesses, especially those with higher ratings (above 3.5), demonstrate consistent or increasing user engagement over time.
 - High-rated restaurants maintain a steady or growing level of user interaction, indicating strong customer interest and satisfaction.
-
+![yelp_9](https://github.com/user-attachments/assets/69ebaab9-4a35-43d7-a81e-3fd31e5fd104)
 ### Are there any seasonal trends in the user engagement for restaurants?
 
 - Tip engagement shows a declining trend, while review engagement follows an upward trajectory, suggesting a shift in how customers interact over time.
 - Seasonal trends are evident, with peak engagement occurring at the beginning and end of the year (around November to March), highlighting key periods for increased customer activity.
-
+![yelp_10](https://github.com/user-attachments/assets/89ea906b-bc18-46fb-afa4-04ab00b6c50b)
 ### How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
 
 - **Useful**, **funny**, and **cool** counts from reviews are strongly correlated with review count, suggesting that more engaging and well-received reviews lead to higher overall review activity.

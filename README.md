@@ -12,7 +12,7 @@ In the highly competitive restaurant industry, it is essential for stakeholders 
 
 
 ## Research Objectives:
-![yelp_new](https://github.com/user-attachments/assets/ce881c12-10d8-4988-a124-1fa6b2bcbb88)
+![WhatsApp Image 2024-10-16 at 9 21 10 PM](https://github.com/user-attachments/assets/1775289f-a152-445c-9afa-ae8c2e9ffd00)
 
 
 ## Hypothesis:

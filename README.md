@@ -31,8 +31,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 - These correlations suggest that user engagement across different platforms (reviews, tips, and check-ins) is interlinked; higher activity in one area tends to be associated with higher activity in others.
 - Businesses should focus on strategies that boost all types of user engagement, as increases in one type of engagement are likely to drive increases in others, enhancing overall visibility and interaction with customers.
 
-  ![Screenshot 2024-10-16 at 11 16 19 PM](https://github.com/user-attachments/assets/d80a7247-4cba-455a-ab25-10deaed99be2)
-
+ ![yelp_8](https://github.com/user-attachments/assets/420ef8ec-a9a9-402e-93a0-d330689523c8)
 
 ### Is there a difference in the user engagement (reviews, tips, and check-ins) between high-rated and low-rated businesses?
 

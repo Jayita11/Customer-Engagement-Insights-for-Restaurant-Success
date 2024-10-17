@@ -21,7 +21,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
   
 - The geographic distribution shows significant clusters of both open and closed restaurants in key regions, with larger markets like Pennsylvania and Florida having a higher concentration of operational restaurants, which suggests these areas are resilient despite market challenges.
   
-![Overview](https://github.com/user-attachments/assets/bdb13d64-e000-4beb-9460-1a4d67b5f7f0)
+  ![Screenshot 2024-10-16 at 9 36 15 PM](https://github.com/user-attachments/assets/252ef865-c041-429d-afb7-648a836f683c)
 
 #### Geographic Analysis Dashboard
 - North Redington Beach stands out with the highest average review count, suggesting a strong customer engagement in this area, while cities like Manayunk and Tarpon Springs also show high review activity, indicating these are key markets for user interaction.
@@ -30,7 +30,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
   
 - The geographic distribution shows high concentrations of restaurants in key states such as California, Florida, and Pennsylvania, which are major hubs for dining culture and could be prioritized for expansion and marketing efforts.
 
-![Geographic](https://github.com/user-attachments/assets/46c0e360-5743-4c43-b9fa-38c829c07e20)
+![Screenshot 2024-10-16 at 9 05 12 PM](https://github.com/user-attachments/assets/ccf2dad2-9e77-4dd3-9037-d693b880f2e0)
 
 #### User Analysis Dashboard
 - John leads with the most fans, followed by Michael and David, suggesting that these users have the greatest influence within the platform. These top users likely drive significant visibility and engagement for the restaurants they review.
@@ -38,8 +38,8 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 - The useful attribute dominates user interactions, with 2.6 million useful votes, followed by cool and funny votes. This suggests that users value helpful reviews the most, making it essential for businesses to encourage meaningful and informative reviews.
   
 - The number of users and reviews peaked around 2011-2015, with a noticeable drop in recent years. This highlights an opportunity to re-engage users and stimulate review activity to match earlier participation levels.
-
-![User](https://github.com/user-attachments/assets/34a26ba0-538f-426d-ba7e-925815e1d8d9)
+  
+![Screenshot 2024-10-16 at 9 37 23 PM](https://github.com/user-attachments/assets/8c6f1eeb-c8d3-404a-b6bc-3b7424db90f2)
 
 #### Reviews Analysis Dashboard
 - The vast majority of reviews (around 81%) are positive, reflecting overall customer satisfaction, while 19% are negative, indicating areas for improvement in certain restaurants.
@@ -50,7 +50,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
   
 - Restaurants in New Orleans dominate the list of businesses with the most reviews, showing strong engagement from customers in that area and highlighting New Orleans as a key hub for restaurant activity and feedback.
 
-![Review](https://github.com/user-attachments/assets/d8205692-2ed6-4008-8b41-9ac391a21914)
+![Screenshot 2024-10-16 at 9 37 59 PM](https://github.com/user-attachments/assets/410cd6b6-e386-46fe-a73b-32975785fc26)
 
 #### Ratings Analysis Dashboard
 - The majority of ratings fall between 3.5, 4 and 4.5 stars, suggesting that most restaurants receive positive feedback, with a smaller portion receiving ratings below 3. This indicates a generally high level of customer satisfaction.
@@ -59,5 +59,5 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
   
 - Most restaurants have been rated good, with a few receiving neutral or bad ratings. This highlights the overall positive performance of restaurants, while those with neutral or bad ratings may need to focus on customer service improvements to enhance their reputation.
 
-![Rating](https://github.com/user-attachments/assets/936a50d4-b8ea-4767-8974-416e0853a8de)
+![Screenshot 2024-10-16 at 9 38 07 PM](https://github.com/user-attachments/assets/7fed9e69-6236-4b7d-bd77-0ce6a415b61c)
 

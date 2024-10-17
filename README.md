@@ -4,7 +4,7 @@
 ## Project Background:
 Yelp is a web and mobile platform where users can discover, review, and share experiences about local businesses through crowd-sourced reviews. It allows users to submit reviews, photos, and tips, while also browsing ratings and insights from others. Yelp covers a wide range of businesses, from restaurants to services, and offers features like search filters, business profiles, and customer feedback.
 
-
+![yelp_og_image](https://github.com/user-attachments/assets/8bf3b4d6-24ac-4de7-b830-df277fd63fef)
 
 ## Problem Statement:
 In the highly competitive restaurant industry, it is essential for stakeholders to understand the factors that drive business success. This project leverages the Yelp dataset to explore the relationship between user engagement (such as reviews, tips, and check-ins) and key success metrics (including review count and ratings) for restaurants.

@@ -12,12 +12,7 @@ In the highly competitive restaurant industry, it is essential for stakeholders 
 ---
 
 ## Research Objectives:
-- **Quantify the Correlation Between User Engagement** (reviews, tips, check-ins) and **Success Metrics**.
-- **Analyze the Influence of Restaurant Attributes** on Customer Satisfaction and Ratings.
-- **Examine the Role of Elite Users** in Shaping Restaurant Success.
-- **Identify Regional and Seasonal Trends** in Restaurant Success.
-- **Evaluate the Sentiment of User Reviews** and Its Impact on Ratings.
-[yelp.pptx](https://github.com/user-attachments/files/17405838/yelp.pptx)
+![yelp_new](https://github.com/user-attachments/assets/ce881c12-10d8-4988-a124-1fa6b2bcbb88)
 ---
 
 ## Hypothesis:

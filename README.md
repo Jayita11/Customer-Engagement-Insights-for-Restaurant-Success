@@ -34,8 +34,7 @@ The original data is provided by Yelp in the form of six JSON files: **business*
 - **Dataset Coverage**: From 2004 to 2022  
 - **Dataset Source**: [Yelp Dataset](https://www.yelp.com/dataset)
 
-
-
+![diagram](https://github.com/user-attachments/assets/0cca0f9a-8f94-4db8-86a4-fd8bc642893a)
 
 ## Executive Summary
 The analysis for the Yelp Restaurant business was conducted using **SQLite**, **Python**, and **Tableau**. SQLite was utilized through Python to perform the data analysis, generating insights from the dataset, which were then visualized. Additionally, **Tableau** was used for further analysis, creating interactive dashboards to provide a comprehensive representation of the findings.

@@ -113,7 +113,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 
 - Tip engagement shows a declining trend, while review engagement follows an upward trajectory, suggesting a shift in how customers interact over time.
 - Seasonal trends are evident, with peak engagement occurring at the beginning and end of the year (around November to March), highlighting key periods for increased customer activity.
-![yelp_10](https://github.com/user-attachments/assets/89ea906b-bc18-46fb-afa4-04ab00b6c50b)
+![yelp_10](https://github.com/user-attachments/assets/7a25a08e-7895-4dfc-853d-c8f988ccfbbf)
 ### How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
 
 - **Useful**, **funny**, and **cool** counts from reviews are strongly correlated with review count, suggesting that more engaging and well-received reviews lead to higher overall review activity.

@@ -173,10 +173,6 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 ![yelp_7](https://github.com/user-attachments/assets/e008cc11-72d4-416a-a5e7-be36c46a3cf5)
 
 
-
-
-
-
 ### Tableau Analysis & Dashboard
 #### Home Page
 - This is the Home Page for the Yelp Restaurant Analysis Tableau dashboard.The page allows easy navigation to various detailed dashboards through clickable icons.
@@ -235,6 +231,16 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 - Most restaurants have been rated good, with a few receiving neutral or bad ratings. This highlights the overall positive performance of restaurants, while those with neutral or bad ratings may need to focus on customer service improvements to enhance their reputation.
 
 ![Screenshot 2024-10-16 at 9 38 07 PM](https://github.com/user-attachments/assets/7fed9e69-6236-4b7d-bd77-0ce6a415b61c)
+
+#### Key Performance Indicators (KPIs) Insights:
+- **Total Restaurants**: 35,004 restaurants are available, reflecting a broad and active market presence.
+- **Total States**: Data spans across 16 states, providing a diverse geographic range.
+- **Total Cities**: 836 cities are represented, showing a significant urban reach.
+- **Total Users**: With 1.988 million users, there is substantial user engagement on the platform.
+- **Total Reviews**: 3.774 million reviews have been generated, indicating a high level of customer feedback and interaction.
+- **Average Rating**: The average restaurant rating is 3.5, showing a balanced level of customer satisfaction overall.
+
+These KPIs highlight the vast reach and engagement within the restaurant industry, providing a strong foundation for data-driven insights and decision-making.
 
 ## Recommendations
 - Focus on delivering exceptional experiences that align with customer preferences, behavior, and satisfaction levels to meet customer expectations.

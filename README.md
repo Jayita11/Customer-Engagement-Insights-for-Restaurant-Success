@@ -24,9 +24,9 @@ In the highly competitive restaurant industry, it is essential for stakeholders 
 
 An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here](https://github.com/Jayita11/Customer-Engagement-Insights-for-Yelp-Restaurant-Business-Success/blob/main/Yelp_Resturant_Data_Analysis_Dashboard.twb). 
 
-The SQL table creation and data insertion were executed using Python, and the code can be found [here].(https://github.com/Jayita11/Customer-Engagement-Insights-for-Yelp-Restaurant-Business-Success/blob/main/Database%20Creation.ipynb)
+The SQL table creation and data insertion were executed using Python, and the code can be found [here](https://github.com/Jayita11/Customer-Engagement-Insights-for-Yelp-Restaurant-Business-Success/blob/main/Database%20Creation.ipynb)
 
-The SQL queries through python regarding various business questions can be found [here] (https://github.com/Jayita11/Customer-Engagement-Insights-for-Yelp-Restaurant-Business-Success/blob/main/Yelp_Restaurant_Business_Analysis.ipynb).
+The SQL queries through python regarding various business questions can be found [here](https://github.com/Jayita11/Customer-Engagement-Insights-for-Yelp-Restaurant-Business-Success/blob/main/Yelp_Restaurant_Business_Analysis.ipynb).
 
 ## Data Overview:
 This dataset is a curated subset of Yelp, containing comprehensive information about businesses across eight major metropolitan areas in the USA and Canada.

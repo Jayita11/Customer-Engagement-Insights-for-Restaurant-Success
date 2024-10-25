@@ -232,7 +232,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
 
 ![Screenshot 2024-10-16 at 9 38 07 PM](https://github.com/user-attachments/assets/7fed9e69-6236-4b7d-bd77-0ce6a415b61c)
 
-#### Key Performance Indicators (KPIs) Insights:
+
 - **Total Restaurants**: 35,004 restaurants are available, reflecting a broad and active market presence.
 - **Total States**: Data spans across 16 states, providing a diverse geographic range.
 - **Total Cities**: 836 cities are represented, showing a significant urban reach.

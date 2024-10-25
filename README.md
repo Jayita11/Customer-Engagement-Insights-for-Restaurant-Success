@@ -242,7 +242,7 @@ The analysis for the Yelp Restaurant business was conducted using **SQLite**, **
   
 ![Screenshot%202024-10-17%20at%201 46 09%E2%80%AFAM-2](https://github.com/user-attachments/assets/cc7e7c6f-ff54-441c-a535-80c644995768)
 
-These KPIs highlight the vast reach and engagement within the restaurant industry, providing a strong foundation for data-driven insights and decision-making.
+
 
 ## Recommendations
 - Focus on delivering exceptional experiences that align with customer preferences, behavior, and satisfaction levels to meet customer expectations.
